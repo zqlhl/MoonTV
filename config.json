@@ -84,6 +84,306 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "liangzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "量子资源"
+    },
+    "feifan": {
+      "api": "http://www.ffzy.tv/api.php/provide/vod/",
+      "name": "非凡资源"
+    },
+    "haiyang": {
+      "api": "https://haiyangzy.com/api.php/provide/vod/",
+      "name": "海洋资源"
+    },
+    "hongniu": {
+      "api": "https://www.hongniuzy.com/api.php/provide/vod/",
+      "name": "红牛资源"
+    },
+    "jinniu": {
+      "api": "http://api.jinniuyun.com/api.php/provide/vod/",
+      "name": "金牛资源"
+    },
+    "kuyun": {
+      "api": "https://kuyunzy.co/api.php/provide/vod/",
+      "name": "酷云资源"
+    },
+    "leiying": {
+      "api": "https://leiyingzy.com/api.php/provide/vod/",
+      "name": "雷鹰资源"
+    },
+    "shandian": {
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电资源"
+    },
+    "shenma": {
+      "api": "https://smzy.com/api.php/provide/vod/",
+      "name": "神马资源"
+    },
+    "taopian": {
+      "api": "https://taopianapi.com/home/cjapi/as/vod/key/taopian",
+      "name": "淘片资源"
+    },
+    "tiankong": {
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "name": "天空资源"
+    },
+    "wukong": {
+      "api": "https://wukongzy.com/api.php/provide/vod/",
+      "name": "悟空资源"
+    },
+    "xiangjiao": {
+      "api": "https://xjzy.com/api.php/provide/vod/",
+      "name": "香蕉资源"
+    },
+    "xinlang": {
+      "api": "https://api.xinlangapi.com/api.php/provide/vod/",
+      "name": "新浪资源"
+    },
+    "yatu": {
+      "api": "https://yatuzy.com/api.php/provide/vod/",
+      "name": "雅图资源"
+    },
+    "yjys": {
+      "api": "https://api.yjys.me/api.php/provide/vod/",
+      "name": "影剧影视"
+    },
+    "yongjiu": {
+      "api": "https://yongjiuzy.com/api.php/provide/vod/",
+      "name": "永久资源"
+    },
+    "zhiling": {
+      "api": "https://zhilingzy.com/api.php/provide/vod/",
+      "name": "指凌资源"
+    },
+    "ziyuan": {
+      "api": "http://www.zyz.com/api.php/provide/vod/",
+      "name": "资源站"
+    },
+    "zuida": {
+      "api": "https://zuidazy.com/api.php/provide/vod/",
+      "name": "最大资源"
+    },
+    "agzy": {
+      "api": "https://agzy.com/api.php/provide/vod",
+      "name": "爱看资源"
+    },
+    "bajie": {
+      "api": "http://zy.bajieziyuan.com/api.php/provide/vod",
+      "name": "八戒资源"
+    },
+    "baozou": {
+      "api": "http://www.baozouzy.com/api.php/provide/vod",
+      "name": "暴走资源"
+    },
+    "chaofan": {
+      "api": "https://cfzy.com/api.php/provide/vod",
+      "name": "超凡资源"
+    },
+    "dianbo": {
+      "api": "http://api.dbzyz.com/api.php/provide/vod",
+      "name": "点播资源"
+    },
+    "feisu": {
+      "api": "https://www.feisuzy.com/api.php/provide/vod",
+      "name": "飞速资源"
+    },
+    "fuhuo": {
+      "api": "http://fuhuoyun.com/api.php/provide/vod",
+      "name": "复活云"
+    },
+    "gaoqing": {
+      "api": "https://gaoqingzy.com/api.php/provide/vod",
+      "name": "高清资源"
+    },
+    "huangjin": {
+      "api": "http://hjzy.com/api.php/provide/vod",
+      "name": "黄金资源"
+    },
+    "huohua": {
+      "api": "https://huohuazy.com/api.php/provide/vod",
+      "name": "火花资源"
+    },
+    "juhai": {
+      "api": "http://juhai.com/api.php/provide/vod",
+      "name": "聚海资源"
+    },
+    "kankan": {
+      "api": "http://kankanzy.com/api.php/provide/vod",
+      "name": "看看资源"
+    },
+    "laoya": {
+      "api": "http://laoyazy.com/api.php/provide/vod",
+      "name": "老鸭资源"
+    },
+    "longma": {
+      "api": "http://longmazy.com/api.php/provide/vod",
+      "name": "龙马资源"
+    },
+    "niuren": {
+      "api": "http://www.niurenzy.com/api.php/provide/vod",
+      "name": "牛人资源"
+    },
+    "ouye": {
+      "api": "http://ouye.com/api.php/provide/vod",
+      "name": "欧耶资源"
+    },
+    "piaohua": {
+      "api": "http://www.piaohuazy.com/api.php/provide/vod",
+      "name": "飘花资源"
+    },
+    "qiezi": {
+      "api": "http://qiezi.com/api.php/provide/vod",
+      "name": "茄子资源"
+    },
+    "quanmin": {
+      "api": "http://quanmin.com/api.php/provide/vod",
+      "name": "全民资源"
+    },
+    "sanjiu": {
+      "api": "http://39zy.com/api.php/provide/vod",
+      "name": "39资源"
+    },
+    "shayu": {
+      "api": "http://shayu.com/api.php/provide/vod",
+      "name": "鲨鱼资源"
+    },
+    "shenlan": {
+      "api": "http://shenlan.com/api.php/provide/vod",
+      "name": "深蓝资源"
+    },
+    "shier": {
+      "api": "http://123.com/api.php/provide/vod",
+      "name": "123资源"
+    },
+    "tianyi": {
+      "api": "http://tianyi.com/api.php/provide/vod",
+      "name": "天翼资源"
+    },
+    "tudou": {
+      "api": "http://tudou.com/api.php/provide/vod",
+      "name": "土豆资源"
+    },
+    "wanbo": {
+      "api": "http://wanbo.com/api.php/provide/vod",
+      "name": "万播资源"
+    },
+    "xianggang": {
+      "api": "http://xianggang.com/api.php/provide/vod",
+      "name": "香港资源"
+    },
+    "xiaoyao": {
+      "api": "http://xiaoyao.com/api.php/provide/vod",
+      "name": "逍遥资源"
+    },
+    "xingfu": {
+      "api": "http://xingfu.com/api.php/provide/vod",
+      "name": "幸福资源"
+    },
+    "xingyun": {
+      "api": "http://xingyun.com/api.php/provide/vod",
+      "name": "星云资源"
+    },
+    "xunlei": {
+      "api": "http://xunlei.com/api.php/provide/vod",
+      "name": "迅雷资源"
+    },
+    "yingshi": {
+      "api": "http://yingshi.com/api.php/provide/vod",
+      "name": "影视资源"
+    },
+    "yingxiong": {
+      "api": "http://yingxiong.com/api.php/provide/vod",
+      "name": "英雄资源"
+    },
+    "yizhou": {
+      "api": "http://yizhou.com/api.php/provide/vod",
+      "name": "一舟资源"
+    },
+    "youku": {
+      "api": "http://youku.com/api.php/provide/vod",
+      "name": "优酷资源"
+    },
+    "youlong": {
+      "api": "http://youlong.com/api.php/provide/vod",
+      "name": "游龙资源"
+    },
+    "baiwan": {
+      "api": "https://www.baiwanzy.com/api.php/provide/vod",
+      "name": "百万资源"
+    },
+    "guangsu": {
+      "api": "http://guangsu.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "huoyan": {
+      "api": "https://huoyan.com/api.php/provide/vod",
+      "name": "火焰资源"
+    },
+    "jiguang": {
+      "api": "https://jiguang.com/api.php/provide/vod",
+      "name": "极光资源"
+    },
+    "jinpai": {
+      "api": "http://jinpai.com/api.php/provide/vod",
+      "name": "金牌资源"
+    },
+    "jisuda": {
+      "api": "http://jisuda.com/api.php/provide/vod",
+      "name": "极速达资源"
+    },
+    "jiujiuliu": {
+      "api": "http://996.com/api.php/provide/vod",
+      "name": "996资源"
+    },
+    "lanbo": {
+      "api": "http://lanbo.com/api.php/provide/vod",
+      "name": "蓝波资源"
+    },
+    "lanniao": {
+      "api": "http://lanniao.com/api.php/provide/vod",
+      "name": "蓝鸟资源"
+    },
+    "mantian": {
+      "api": "http://mantian.com/api.php/provide/vod",
+      "name": "满天星资源"
+    },
+    "miaobo": {
+      "api": "https://miaobo.com/api.php/provide/vod",
+      "name": "秒播资源"
+    },
+    "qimao": {
+      "api": "http://qimao.com/api.php/provide/vod",
+      "name": "奇猫资源"
+    },
+    "qiyiguang": {
+      "api": "https://qiyiguang.com/api.php/provide/vod",
+      "name": "奇艺光资源"
+    },
+    "rihan": {
+      "api": "http://rihan.com/api.php/provide/vod",
+      "name": "日韩资源"
+    },
+    "ronghua": {
+      "api": "https://ronghua.com/api.php/provide/vod",
+      "name": "荣华资源"
+    },
+    "sijiu": {
+      "api": "http://49zy.com/api.php/provide/vod",
+      "name": "49资源"
+    },
+    "suku": {
+      "api": "http://suku.com/api.php/provide/vod",
+      "name": "速酷资源"
+    },
+    "wawa": {
+      "api": "http://wawa.com/api.php/provide/vod",
+      "name": "哇哇资源"
+    },
+    "weidu": {
+      "api": "https://weidu.com/api.php/provide/vod",
+      "name": "维度资源"
     }
   }
 }
